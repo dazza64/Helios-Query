@@ -1,0 +1,790 @@
+id,Year,Item_number,State,Scheme,Month,Patient_Category,Services,Benefits
+1,2015,0,NSW,RPBS,January,RPBS - Safety Net,6,103
+2,2015,0,VIC,RPBS,January,RPBS - Ordinary,4,16
+3,2015,0,VIC,RPBS,January,RPBS - Safety Net,7,241
+4,2015,0,QLD,RPBS,January,RPBS - Ordinary,8,89
+5,2015,0,QLD,RPBS,January,RPBS - Safety Net,8,627
+6,2015,0,SA,RPBS,January,RPBS - Ordinary,1,58
+7,2015,0,SA,RPBS,January,RPBS - Safety Net,1,100
+8,2015,0,WA,RPBS,January,RPBS - Ordinary,1,4
+9,2015,0,WA,RPBS,January,RPBS - Safety Net,6,86
+10,2015,0,TAS,RPBS,January,RPBS - Safety Net,2,45
+11,2015,13Q,ACT,PBS,January,General - Ordinary,5,151
+12,2015,13Q,ACT,PBS,January,General - Safety Net,7,84
+13,2015,13Q,ACT,PBS,January,Concessional - Ordinary,49,1175
+14,2015,13Q,ACT,PBS,January,Concessional - Free Safety Net,40,982
+15,2015,13Q,ACT,RPBS,January,RPBS - Ordinary,9,111
+16,2015,13Q,ACT,RPBS,January,RPBS - Safety Net,11,285
+17,2015,13Q,NSW,PBS,January,General - Ordinary,46,2227
+18,2015,13Q,NSW,PBS,January,General - Safety Net,93,1654
+19,2015,13Q,NSW,PBS,January,Concessional - Ordinary,1627,21672
+20,2015,13Q,NSW,PBS,January,Concessional - Free Safety Net,1965,44662
+21,2015,13Q,NSW,RPBS,January,RPBS - Ordinary,106,2280
+22,2015,13Q,NSW,RPBS,January,RPBS - Safety Net,231,8090
+23,2015,13Q,VIC,PBS,January,General - Ordinary,36,1474
+24,2015,13Q,VIC,PBS,January,General - Safety Net,36,530
+25,2015,13Q,VIC,PBS,January,Concessional - Ordinary,971,14549
+26,2015,13Q,VIC,PBS,January,Concessional - Free Safety Net,1053,22730
+27,2015,13Q,VIC,RPBS,January,RPBS - Ordinary,57,592
+28,2015,13Q,VIC,RPBS,January,RPBS - Safety Net,95,1597
+29,2015,13Q,QLD,PBS,January,General - Ordinary,13,436
+30,2015,13Q,QLD,PBS,January,General - Safety Net,51,497
+31,2015,13Q,QLD,PBS,January,Concessional - Ordinary,1131,9102
+32,2015,13Q,QLD,PBS,January,Concessional - Free Safety Net,1535,21016
+33,2015,13Q,QLD,RPBS,January,RPBS - Ordinary,117,837
+34,2015,13Q,QLD,RPBS,January,RPBS - Safety Net,216,3192
+35,2015,13Q,SA,PBS,January,General - Ordinary,7,1115
+36,2015,13Q,SA,PBS,January,General - Safety Net,20,369
+37,2015,13Q,SA,PBS,January,Concessional - Ordinary,348,3267
+38,2015,13Q,SA,PBS,January,Concessional - Free Safety Net,431,6658
+39,2015,13Q,SA,RPBS,January,RPBS - Ordinary,12,107
+40,2015,13Q,SA,RPBS,January,RPBS - Safety Net,47,665
+41,2015,13Q,WA,PBS,January,General - Ordinary,19,483
+42,2015,13Q,WA,PBS,January,General - Safety Net,37,309
+43,2015,13Q,WA,PBS,January,Concessional - Ordinary,410,3969
+44,2015,13Q,WA,PBS,January,Concessional - Free Safety Net,508,7497
+45,2015,13Q,WA,RPBS,January,RPBS - Ordinary,36,285
+46,2015,13Q,WA,RPBS,January,RPBS - Safety Net,66,975
+47,2015,13Q,TAS,PBS,January,General - Safety Net,6,38
+48,2015,13Q,TAS,PBS,January,Concessional - Ordinary,93,670
+49,2015,13Q,TAS,PBS,January,Concessional - Free Safety Net,162,2153
+50,2015,13Q,TAS,RPBS,January,RPBS - Ordinary,13,96
+51,2015,13Q,TAS,RPBS,January,RPBS - Safety Net,16,334
+52,2015,13Q,NT,PBS,January,Concessional - Ordinary,8,56
+53,2015,13Q,NT,PBS,January,Concessional - Free Safety Net,3,37
+54,2015,13Q,NT,RPBS,January,RPBS - Ordinary,1,6
+55,2015,13Q,NT,RPBS,January,RPBS - Safety Net,1,14
+56,2015,15T,NSW,PBS,January,Concessional - Ordinary,19,179
+57,2015,15T,NSW,PBS,January,Concessional - Free Safety Net,11,138
+58,2015,15T,NSW,RPBS,January,RPBS - Ordinary,2,8
+59,2015,15T,NSW,RPBS,January,RPBS - Safety Net,3,30
+60,2015,15T,VIC,PBS,January,Concessional - Ordinary,3,19
+61,2015,15T,VIC,PBS,January,Concessional - Free Safety Net,3,30
+62,2015,15T,VIC,RPBS,January,RPBS - Ordinary,1,4
+63,2015,15T,QLD,PBS,January,Concessional - Ordinary,18,101
+64,2015,15T,QLD,PBS,January,Concessional - Free Safety Net,17,171
+65,2015,15T,QLD,RPBS,January,RPBS - Ordinary,2,8
+66,2015,15T,QLD,RPBS,January,RPBS - Safety Net,3,30
+67,2015,15T,SA,PBS,January,Concessional - Ordinary,9,53
+68,2015,15T,SA,PBS,January,Concessional - Free Safety Net,5,51
+69,2015,15T,SA,RPBS,January,RPBS - Safety Net,1,10
+70,2015,15T,WA,PBS,January,Concessional - Ordinary,3,12
+71,2015,15T,NT,PBS,January,Concessional - Ordinary,1,4
+72,2015,19B,QLD,PBS,January,Concessional - Ordinary,2,89
+73,2015,22E,NSW,PBS,January,General - Ordinary,3,48
+74,2015,22E,NSW,PBS,January,Concessional - Ordinary,42,758
+75,2015,22E,NSW,PBS,January,Concessional - Free Safety Net,17,388
+76,2015,22E,NSW,RPBS,January,RPBS - Ordinary,8,623
+77,2015,22E,NSW,RPBS,January,RPBS - Safety Net,4,112
+78,2015,22E,VIC,PBS,January,General - Safety Net,1,13
+79,2015,22E,VIC,RPBS,January,RPBS - Ordinary,1,13
+80,2015,22E,VIC,RPBS,January,RPBS - Safety Net,1,19
+81,2015,22E,QLD,RPBS,January,RPBS - Ordinary,2,119
+82,2015,22E,SA,PBS,January,Concessional - Ordinary,1,39
+83,2015,22E,SA,RPBS,January,RPBS - Safety Net,1,25
+84,2015,22E,WA,PBS,January,Concessional - Free Safety Net,1,26
+85,2015,29M,NSW,RPBS,January,RPBS - Safety Net,1,14
+86,2015,29M,QLD,RPBS,January,RPBS - Safety Net,1,14
+87,2015,29M,SA,PBS,January,Concessional - Free Safety Net,1,20
+88,2015,30N,NSW,PBS,January,Concessional - Ordinary,6,113
+89,2015,30N,NSW,PBS,January,Concessional - Free Safety Net,7,173
+90,2015,30N,NSW,RPBS,January,RPBS - Safety Net,1,24
+91,2015,30N,VIC,PBS,January,General - Ordinary,28,675
+92,2015,30N,VIC,PBS,January,General - Safety Net,12,740
+93,2015,30N,VIC,PBS,January,Concessional - Ordinary,32,1843
+94,2015,30N,VIC,PBS,January,Concessional - Free Safety Net,23,1583
+95,2015,30N,VIC,RPBS,January,RPBS - Safety Net,1,53
+96,2015,30N,QLD,PBS,January,Concessional - Ordinary,6,116
+97,2015,30N,QLD,PBS,January,Concessional - Free Safety Net,2,41
+98,2015,30N,TAS,PBS,January,General - Ordinary,2,46
+99,2015,34T,NSW,PBS,January,Concessional - Ordinary,1,19
+100,2015,34T,VIC,PBS,January,Concessional - Ordinary,4,80
+101,2015,34T,VIC,PBS,January,Concessional - Free Safety Net,2,43
+102,2015,34T,SA,PBS,January,Concessional - Ordinary,14,266
+103,2015,34T,SA,PBS,January,Concessional - Free Safety Net,24,567
+104,2015,39C,NSW,PBS,January,General - Ordinary,2,89
+105,2015,39C,NSW,PBS,January,General - Safety Net,1,6
+106,2015,39C,NSW,PBS,January,Concessional - Ordinary,34,327
+107,2015,39C,NSW,PBS,January,Concessional - Free Safety Net,21,375
+108,2015,39C,VIC,PBS,January,General - Ordinary,1,8
+109,2015,39C,VIC,PBS,January,General - Safety Net,2,50
+110,2015,39C,VIC,PBS,January,Concessional - Ordinary,17,423
+111,2015,39C,VIC,PBS,January,Concessional - Free Safety Net,12,194
+112,2015,39C,VIC,RPBS,January,RPBS - Safety Net,1,12
+113,2015,39C,QLD,PBS,January,General - Safety Net,3,19
+114,2015,39C,QLD,PBS,January,Concessional - Ordinary,13,125
+115,2015,39C,QLD,PBS,January,Concessional - Free Safety Net,13,250
+116,2015,39C,QLD,RPBS,January,RPBS - Ordinary,1,5
+117,2015,39C,QLD,RPBS,January,RPBS - Safety Net,4,48
+118,2015,39C,SA,PBS,January,Concessional - Ordinary,6,33
+119,2015,39C,SA,PBS,January,Concessional - Free Safety Net,1,12
+120,2015,39C,WA,PBS,January,General - Ordinary,3,53
+121,2015,39C,WA,PBS,January,General - Safety Net,5,31
+122,2015,39C,WA,PBS,January,Concessional - Ordinary,10,147
+123,2015,39C,WA,PBS,January,Concessional - Free Safety Net,15,364
+124,2015,39C,WA,RPBS,January,RPBS - Safety Net,3,37
+125,2015,39C,TAS,PBS,January,Concessional - Ordinary,2,21
+126,2015,39C,TAS,PBS,January,Concessional - Free Safety Net,2,25
+127,2015,40D,NSW,PBS,January,General - Ordinary,2,144
+128,2015,40D,NSW,PBS,January,Concessional - Ordinary,30,1156
+129,2015,40D,NSW,PBS,January,Concessional - Free Safety Net,12,759
+130,2015,40D,NSW,RPBS,January,RPBS - Ordinary,2,34
+131,2015,40D,NSW,RPBS,January,RPBS - Safety Net,1,23
+132,2015,40D,VIC,PBS,January,General - Ordinary,2,143
+133,2015,40D,VIC,PBS,January,Concessional - Ordinary,14,451
+134,2015,40D,VIC,PBS,January,Concessional - Free Safety Net,5,98
+135,2015,40D,QLD,PBS,January,General - Ordinary,1,8
+136,2015,40D,QLD,PBS,January,Concessional - Ordinary,4,50
+137,2015,40D,QLD,PBS,January,Concessional - Free Safety Net,4,91
+138,2015,40D,SA,PBS,January,Concessional - Ordinary,20,571
+139,2015,40D,SA,PBS,January,Concessional - Free Safety Net,17,316
+140,2015,40D,SA,RPBS,January,RPBS - Safety Net,1,23
+141,2015,41E,NSW,PBS,January,Concessional - Ordinary,3,65
+142,2015,41E,VIC,PBS,January,Concessional - Ordinary,3,48
+143,2015,41E,QLD,PBS,January,Concessional - Ordinary,1,83
+144,2015,41E,WA,PBS,January,Concessional - Ordinary,1,45
+145,2015,41E,TAS,PBS,January,General - Ordinary,1,0
+146,2015,42F,NSW,PBS,January,Concessional - Free Safety Net,1,38
+147,2015,42F,VIC,PBS,January,General - Ordinary,15,266
+148,2015,42F,VIC,PBS,January,Concessional - Ordinary,2,220
+149,2015,42F,TAS,PBS,January,Concessional - Free Safety Net,1,15
+150,2015,43G,ACT,PBS,January,General - Ordinary,51,2636
+151,2015,43G,ACT,PBS,January,General - Safety Net,1,88
+152,2015,43G,ACT,PBS,January,Concessional - Ordinary,30,1606
+153,2015,43G,ACT,PBS,January,Concessional - Free Safety Net,11,542
+154,2015,43G,ACT,RPBS,January,RPBS - Ordinary,2,58
+155,2015,43G,ACT,RPBS,January,RPBS - Safety Net,4,123
+156,2015,43G,NSW,PBS,January,General - Ordinary,65,4579
+157,2015,43G,NSW,PBS,January,General - Safety Net,21,941
+158,2015,43G,NSW,PBS,January,Concessional - Ordinary,262,16570
+159,2015,43G,NSW,PBS,January,Concessional - Free Safety Net,218,9246
+160,2015,43G,NSW,RPBS,January,RPBS - Ordinary,15,326
+161,2015,43G,NSW,RPBS,January,RPBS - Safety Net,23,1018
+162,2015,43G,VIC,PBS,January,General - Ordinary,27,1860
+163,2015,43G,VIC,PBS,January,General - Safety Net,6,176
+164,2015,43G,VIC,PBS,January,Concessional - Ordinary,171,6760
+165,2015,43G,VIC,PBS,January,Concessional - Free Safety Net,139,6008
+166,2015,43G,VIC,RPBS,January,RPBS - Ordinary,3,80
+167,2015,43G,VIC,RPBS,January,RPBS - Safety Net,11,293
+168,2015,43G,QLD,PBS,January,General - Ordinary,12,463
+169,2015,43G,QLD,PBS,January,General - Safety Net,14,180
+170,2015,43G,QLD,PBS,January,Concessional - Ordinary,170,2728
+171,2015,43G,QLD,PBS,January,Concessional - Free Safety Net,228,4746
+172,2015,43G,QLD,RPBS,January,RPBS - Ordinary,22,650
+173,2015,43G,QLD,RPBS,January,RPBS - Safety Net,57,2078
+174,2015,43G,SA,PBS,January,General - Ordinary,7,312
+175,2015,43G,SA,PBS,January,General - Safety Net,6,127
+176,2015,43G,SA,PBS,January,Concessional - Ordinary,25,711
+177,2015,43G,SA,PBS,January,Concessional - Free Safety Net,37,830
+178,2015,43G,SA,RPBS,January,RPBS - Ordinary,2,34
+179,2015,43G,SA,RPBS,January,RPBS - Safety Net,9,289
+180,2015,43G,WA,PBS,January,General - Ordinary,6,305
+181,2015,43G,WA,PBS,January,General - Safety Net,7,118
+182,2015,43G,WA,PBS,January,Concessional - Ordinary,74,1796
+183,2015,43G,WA,PBS,January,Concessional - Free Safety Net,78,1906
+184,2015,43G,WA,RPBS,January,RPBS - Ordinary,9,140
+185,2015,43G,WA,RPBS,January,RPBS - Safety Net,17,394
+186,2015,43G,TAS,PBS,January,General - Ordinary,2,151
+187,2015,43G,TAS,PBS,January,General - Safety Net,1,12
+188,2015,43G,TAS,PBS,January,Concessional - Ordinary,31,590
+189,2015,43G,TAS,PBS,January,Concessional - Free Safety Net,57,1450
+190,2015,43G,TAS,RPBS,January,RPBS - Ordinary,2,25
+191,2015,43G,TAS,RPBS,January,RPBS - Safety Net,8,212
+192,2015,43G,NT,PBS,January,Concessional - Free Safety Net,2,37
+193,2015,44H,ACT,PBS,January,General - Ordinary,2,89
+194,2015,44H,NSW,PBS,January,General - Ordinary,14,1038
+195,2015,44H,NSW,PBS,January,General - Safety Net,9,954
+196,2015,44H,NSW,PBS,January,Concessional - Ordinary,16,1642
+197,2015,44H,NSW,PBS,January,Concessional - Free Safety Net,26,2795
+198,2015,44H,VIC,PBS,January,General - Ordinary,2,81
+199,2015,44H,VIC,PBS,January,Concessional - Ordinary,1,114
+200,2015,44H,VIC,RPBS,January,RPBS - Ordinary,1,108
+201,2015,44H,QLD,PBS,January,General - Ordinary,7,511
+202,2015,44H,QLD,PBS,January,Concessional - Ordinary,2,206
+203,2015,44H,SA,PBS,January,General - Safety Net,1,103
+204,2015,44H,SA,PBS,January,Concessional - Ordinary,2,212
+205,2015,44H,SA,PBS,January,Concessional - Free Safety Net,3,333
+206,2015,44H,WA,PBS,January,General - Ordinary,1,72
+207,2015,44H,WA,PBS,January,General - Safety Net,1,103
+208,2015,44H,WA,PBS,January,Concessional - Ordinary,1,91
+209,2015,44H,WA,PBS,January,Concessional - Free Safety Net,1,109
+210,2015,45J,ACT,PBS,January,General - Safety Net,1,11
+211,2015,45J,ACT,PBS,January,Concessional - Ordinary,2,89
+212,2015,45J,NSW,PBS,January,General - Ordinary,1,29
+213,2015,45J,NSW,PBS,January,General - Safety Net,3,25
+214,2015,45J,NSW,PBS,January,Concessional - Ordinary,18,376
+215,2015,45J,NSW,PBS,January,Concessional - Free Safety Net,6,173
+216,2015,45J,NSW,RPBS,January,RPBS - Ordinary,1,9
+217,2015,45J,VIC,PBS,January,General - Ordinary,2,526
+218,2015,45J,VIC,PBS,January,Concessional - Free Safety Net,3,171
+219,2015,45J,QLD,PBS,January,Concessional - Ordinary,4,198
+220,2015,45J,QLD,PBS,January,Concessional - Free Safety Net,1,35
+221,2015,45J,QLD,RPBS,January,RPBS - Safety Net,1,35
+222,2015,45J,SA,PBS,January,General - Ordinary,2,30
+223,2015,45J,SA,PBS,January,Concessional - Ordinary,5,186
+224,2015,45J,SA,PBS,January,Concessional - Free Safety Net,2,70
+225,2015,45J,WA,PBS,January,General - Ordinary,6,163
+226,2015,45J,WA,PBS,January,General - Safety Net,1,16
+227,2015,45J,WA,PBS,January,Concessional - Ordinary,12,331
+228,2015,45J,WA,PBS,January,Concessional - Free Safety Net,1,17
+229,2015,45J,TAS,PBS,January,Concessional - Ordinary,3,87
+230,2015,48M,NSW,PBS,January,General - Safety Net,2,41
+231,2015,48M,NSW,PBS,January,Concessional - Free Safety Net,4,106
+232,2015,48M,NSW,RPBS,January,RPBS - Safety Net,3,79
+233,2015,48M,QLD,PBS,January,Concessional - Ordinary,2,41
+234,2015,48M,SA,PBS,January,Concessional - Ordinary,2,41
+235,2015,49N,NSW,PBS,January,Concessional - Ordinary,1,27
+236,2015,49N,NSW,PBS,January,Concessional - Free Safety Net,4,133
+237,2015,49N,QLD,PBS,January,Concessional - Free Safety Net,1,34
+238,2015,49N,SA,PBS,January,Concessional - Ordinary,1,29
+239,2015,52R,ACT,PBS,January,Concessional - Ordinary,1,71
+240,2015,52R,ACT,PBS,January,Concessional - Free Safety Net,1,31
+241,2015,52R,NSW,PBS,January,Concessional - Ordinary,11,525
+242,2015,52R,NSW,PBS,January,Concessional - Free Safety Net,15,827
+243,2015,52R,NSW,RPBS,January,RPBS - Ordinary,1,79
+244,2015,52R,VIC,PBS,January,General - Ordinary,1,1
+245,2015,52R,VIC,PBS,January,Concessional - Ordinary,3,252
+246,2015,52R,VIC,PBS,January,Concessional - Free Safety Net,5,192
+247,2015,52R,VIC,RPBS,January,RPBS - Safety Net,1,16
+248,2015,52R,QLD,PBS,January,Concessional - Ordinary,1,21
+249,2015,52R,QLD,PBS,January,Concessional - Free Safety Net,6,240
+250,2015,52R,QLD,RPBS,January,RPBS - Ordinary,1,9
+251,2015,52R,SA,PBS,January,Concessional - Free Safety Net,3,302
+252,2015,52R,WA,PBS,January,Concessional - Free Safety Net,1,26
+253,2015,52R,TAS,PBS,January,Concessional - Ordinary,1,56
+254,2015,64J,NSW,PBS,January,Concessional - Ordinary,10,69
+255,2015,64J,NSW,PBS,January,Concessional - Free Safety Net,10,137
+256,2015,64J,VIC,PBS,January,Concessional - Ordinary,5,70
+257,2015,64J,VIC,PBS,January,Concessional - Free Safety Net,8,149
+258,2015,64J,QLD,PBS,January,Concessional - Ordinary,41,318
+259,2015,64J,QLD,PBS,January,Concessional - Free Safety Net,30,422
+260,2015,64J,QLD,RPBS,January,RPBS - Ordinary,2,16
+261,2015,64J,QLD,RPBS,January,RPBS - Safety Net,2,27
+262,2015,64J,SA,PBS,January,General - Safety Net,1,8
+263,2015,64J,SA,PBS,January,Concessional - Ordinary,41,313
+264,2015,64J,SA,PBS,January,Concessional - Free Safety Net,24,374
+265,2015,64J,WA,PBS,January,General - Safety Net,2,24
+266,2015,64J,WA,PBS,January,Concessional - Ordinary,24,195
+267,2015,64J,WA,PBS,January,Concessional - Free Safety Net,10,142
+268,2015,64J,WA,RPBS,January,RPBS - Ordinary,1,8
+269,2015,64J,WA,RPBS,January,RPBS - Safety Net,2,36
+270,2015,64J,TAS,PBS,January,Concessional - Ordinary,1,8
+271,2015,64J,TAS,PBS,January,Concessional - Free Safety Net,1,14
+272,2015,65K,SA,PBS,January,Concessional - Free Safety Net,1,32
+273,2015,1001Q,ACT,PBS,January,Concessional - Ordinary,1,32
+274,2015,1001Q,NSW,PBS,January,Concessional - Ordinary,47,1459
+275,2015,1001Q,NSW,PBS,January,Concessional - Free Safety Net,17,646
+276,2015,1001Q,VIC,PBS,January,Concessional - Ordinary,41,1364
+277,2015,1001Q,VIC,PBS,January,Concessional - Free Safety Net,11,418
+278,2015,1001Q,QLD,PBS,January,General - Ordinary,1,1
+279,2015,1001Q,QLD,PBS,January,Concessional - Ordinary,22,788
+280,2015,1001Q,QLD,PBS,January,Concessional - Free Safety Net,15,570
+281,2015,1001Q,SA,PBS,January,General - Ordinary,1,1
+282,2015,1001Q,SA,PBS,January,Concessional - Ordinary,22,689
+283,2015,1001Q,SA,PBS,January,Concessional - Free Safety Net,12,456
+284,2015,1001Q,WA,PBS,January,General - Ordinary,2,2
+285,2015,1001Q,WA,PBS,January,Concessional - Ordinary,14,381
+286,2015,1001Q,WA,PBS,January,Concessional - Free Safety Net,5,159
+287,2015,1001Q,TAS,PBS,January,Concessional - Ordinary,5,160
+288,2015,1001Q,TAS,PBS,January,Concessional - Free Safety Net,1,38
+289,2015,1002R,ACT,PBS,January,General - Ordinary,1,1
+290,2015,1002R,ACT,PBS,January,Concessional - Ordinary,6,191
+291,2015,1002R,ACT,RPBS,January,RPBS - Ordinary,1,32
+292,2015,1002R,NSW,PBS,January,General - Ordinary,116,105
+293,2015,1002R,NSW,PBS,January,General - Safety Net,7,223
+294,2015,1002R,NSW,PBS,January,Concessional - Ordinary,121,3874
+295,2015,1002R,NSW,PBS,January,Concessional - Free Safety Net,112,4265
+296,2015,1002R,NSW,RPBS,January,RPBS - Ordinary,6,191
+297,2015,1002R,NSW,RPBS,January,RPBS - Safety Net,7,265
+298,2015,1002R,VIC,PBS,January,General - Ordinary,46,41
+299,2015,1002R,VIC,PBS,January,General - Safety Net,3,95
+300,2015,1002R,VIC,PBS,January,Concessional - Ordinary,61,1917
+301,2015,1002R,VIC,PBS,January,Concessional - Free Safety Net,30,1134
+302,2015,1002R,VIC,RPBS,January,RPBS - Ordinary,3,95
+303,2015,1002R,VIC,RPBS,January,RPBS - Safety Net,5,179
+304,2015,1002R,QLD,PBS,January,General - Ordinary,66,60
+305,2015,1002R,QLD,PBS,January,General - Safety Net,2,126
+306,2015,1002R,QLD,PBS,January,Concessional - Ordinary,51,1602
+307,2015,1002R,QLD,PBS,January,Concessional - Free Safety Net,40,1506
+308,2015,1002R,QLD,RPBS,January,RPBS - Ordinary,2,64
+309,2015,1002R,QLD,RPBS,January,RPBS - Safety Net,8,302
+310,2015,1002R,SA,PBS,January,General - Ordinary,22,20
+311,2015,1002R,SA,PBS,January,Concessional - Ordinary,23,731
+312,2015,1002R,SA,PBS,January,Concessional - Free Safety Net,20,736
+313,2015,1002R,SA,RPBS,January,RPBS - Ordinary,1,32
+314,2015,1002R,SA,RPBS,January,RPBS - Safety Net,2,66
+315,2015,1002R,WA,PBS,January,General - Ordinary,57,51
+316,2015,1002R,WA,PBS,January,General - Safety Net,1,32
+317,2015,1002R,WA,PBS,January,Concessional - Ordinary,31,1009
+318,2015,1002R,WA,PBS,January,Concessional - Free Safety Net,32,1210
+319,2015,1002R,WA,RPBS,January,RPBS - Safety Net,3,113
+320,2015,1002R,TAS,PBS,January,General - Ordinary,5,5
+321,2015,1002R,TAS,PBS,January,Concessional - Ordinary,10,318
+322,2015,1002R,TAS,PBS,January,Concessional - Free Safety Net,12,444
+323,2015,1002R,NT,PBS,January,General - Ordinary,1,1
+324,2015,1002R,NT,PBS,January,Concessional - Ordinary,2,64
+325,2015,1003T,ACT,PBS,January,Concessional - Ordinary,1,26
+326,2015,1003T,ACT,PBS,January,Concessional - Free Safety Net,1,32
+327,2015,1003T,NSW,PBS,January,General - Ordinary,2,55
+328,2015,1003T,NSW,PBS,January,Concessional - Ordinary,13,328
+329,2015,1003T,NSW,RPBS,January,RPBS - Ordinary,1,26
+330,2015,1003T,VIC,PBS,January,General - Safety Net,1,26
+331,2015,1003T,VIC,PBS,January,Concessional - Ordinary,9,199
+332,2015,1003T,VIC,PBS,January,Concessional - Free Safety Net,4,130
+333,2015,1003T,QLD,PBS,January,General - Ordinary,1,28
+334,2015,1003T,QLD,PBS,January,General - Safety Net,1,26
+335,2015,1003T,QLD,PBS,January,Concessional - Ordinary,15,389
+336,2015,1003T,QLD,PBS,January,Concessional - Free Safety Net,2,65
+337,2015,1003T,QLD,RPBS,January,RPBS - Ordinary,1,26
+338,2015,1003T,QLD,RPBS,January,RPBS - Safety Net,1,32
+339,2015,1003T,SA,PBS,January,General - Ordinary,1,28
+340,2015,1003T,SA,PBS,January,Concessional - Ordinary,4,106
+341,2015,1003T,SA,PBS,January,Concessional - Free Safety Net,1,32
+342,2015,1003T,WA,PBS,January,General - Safety Net,2,53
+343,2015,1003T,WA,PBS,January,Concessional - Ordinary,3,66
+344,2015,1003T,WA,PBS,January,Concessional - Free Safety Net,1,32
+345,2015,1004W,ACT,PBS,January,General - Safety Net,1,18
+346,2015,1004W,ACT,PBS,January,Concessional - Ordinary,9,233
+347,2015,1004W,ACT,PBS,January,Concessional - Free Safety Net,4,97
+348,2015,1004W,ACT,RPBS,January,RPBS - Safety Net,1,24
+349,2015,1004W,NSW,PBS,January,General - Ordinary,4,77
+350,2015,1004W,NSW,PBS,January,General - Safety Net,59,1094
+351,2015,1004W,NSW,PBS,January,Concessional - Ordinary,318,5600
+352,2015,1004W,NSW,PBS,January,Concessional - Free Safety Net,280,6785
+353,2015,1004W,NSW,RPBS,January,RPBS - Ordinary,11,199
+354,2015,1004W,NSW,RPBS,January,RPBS - Safety Net,24,579
+355,2015,1004W,VIC,PBS,January,General - Ordinary,6,62
+356,2015,1004W,VIC,PBS,January,General - Safety Net,14,224
+357,2015,1004W,VIC,PBS,January,Concessional - Ordinary,157,2158
+358,2015,1004W,VIC,PBS,January,Concessional - Free Safety Net,164,3596
+359,2015,1004W,VIC,RPBS,January,RPBS - Ordinary,5,16
+360,2015,1004W,VIC,RPBS,January,RPBS - Safety Net,10,230
+361,2015,1004W,QLD,PBS,January,General - Ordinary,4,36
+362,2015,1004W,QLD,PBS,January,General - Safety Net,31,521
+363,2015,1004W,QLD,PBS,January,Concessional - Ordinary,274,4571
+364,2015,1004W,QLD,PBS,January,Concessional - Free Safety Net,290,6943
+365,2015,1004W,QLD,RPBS,January,RPBS - Ordinary,21,307
+366,2015,1004W,QLD,RPBS,January,RPBS - Safety Net,19,444
+367,2015,1004W,SA,PBS,January,General - Ordinary,2,24
+368,2015,1004W,SA,PBS,January,General - Safety Net,10,181
+369,2015,1004W,SA,PBS,January,Concessional - Ordinary,116,2006
+370,2015,1004W,SA,PBS,January,Concessional - Free Safety Net,127,3012
+371,2015,1004W,SA,RPBS,January,RPBS - Ordinary,3,54
+372,2015,1004W,SA,RPBS,January,RPBS - Safety Net,12,290
+373,2015,1004W,WA,PBS,January,General - Ordinary,6,89
+374,2015,1004W,WA,PBS,January,General - Safety Net,19,357
+375,2015,1004W,WA,PBS,January,Concessional - Ordinary,139,1850
+376,2015,1004W,WA,PBS,January,Concessional - Free Safety Net,113,2452
+377,2015,1004W,WA,RPBS,January,RPBS - Ordinary,3,39
+378,2015,1004W,WA,RPBS,January,RPBS - Safety Net,5,105
+379,2015,1004W,TAS,PBS,January,General - Ordinary,1,19
+380,2015,1004W,TAS,PBS,January,Concessional - Ordinary,55,681
+381,2015,1004W,TAS,PBS,January,Concessional - Free Safety Net,21,507
+382,2015,1004W,TAS,RPBS,January,RPBS - Safety Net,1,24
+383,2015,1004W,NT,PBS,January,Concessional - Ordinary,5,97
+384,2015,1004W,NT,PBS,January,Concessional - Free Safety Net,1,24
+385,2015,1007B,ACT,PBS,January,General - Ordinary,24,450
+386,2015,1007B,ACT,PBS,January,Concessional - Ordinary,4,188
+387,2015,1007B,ACT,PBS,January,Concessional - Free Safety Net,3,161
+388,2015,1007B,NSW,PBS,January,General - Ordinary,320,5138
+389,2015,1007B,NSW,PBS,January,General - Safety Net,15,758
+390,2015,1007B,NSW,PBS,January,Concessional - Ordinary,160,7620
+391,2015,1007B,NSW,PBS,January,Concessional - Free Safety Net,81,4113
+392,2015,1007B,NSW,RPBS,January,RPBS - Ordinary,1,45
+393,2015,1007B,NSW,RPBS,January,RPBS - Safety Net,5,257
+394,2015,1007B,VIC,PBS,January,General - Ordinary,187,2967
+395,2015,1007B,VIC,PBS,January,General - Safety Net,13,588
+396,2015,1007B,VIC,PBS,January,Concessional - Ordinary,97,4848
+397,2015,1007B,VIC,PBS,January,Concessional - Free Safety Net,59,3114
+398,2015,1007B,VIC,RPBS,January,RPBS - Ordinary,3,143
+399,2015,1007B,VIC,RPBS,January,RPBS - Safety Net,3,154
+400,2015,1007B,QLD,PBS,January,General - Ordinary,319,4813
+401,2015,1007B,QLD,PBS,January,General - Safety Net,40,2159
+402,2015,1007B,QLD,PBS,January,Concessional - Ordinary,141,6567
+403,2015,1007B,QLD,PBS,January,Concessional - Free Safety Net,126,6751
+404,2015,1007B,QLD,RPBS,January,RPBS - Ordinary,3,136
+405,2015,1007B,QLD,RPBS,January,RPBS - Safety Net,5,255
+406,2015,1007B,SA,PBS,January,General - Ordinary,103,1589
+407,2015,1007B,SA,PBS,January,General - Safety Net,6,273
+408,2015,1007B,SA,PBS,January,Concessional - Ordinary,40,1807
+409,2015,1007B,SA,PBS,January,Concessional - Free Safety Net,31,1595
+410,2015,1007B,SA,RPBS,January,RPBS - Safety Net,2,97
+411,2015,1007B,WA,PBS,January,General - Ordinary,204,3027
+412,2015,1007B,WA,PBS,January,General - Safety Net,8,447
+413,2015,1007B,WA,PBS,January,Concessional - Ordinary,41,1817
+414,2015,1007B,WA,PBS,January,Concessional - Free Safety Net,34,1739
+415,2015,1007B,WA,RPBS,January,RPBS - Ordinary,1,45
+416,2015,1007B,TAS,PBS,January,General - Ordinary,27,366
+417,2015,1007B,TAS,PBS,January,General - Safety Net,2,91
+418,2015,1007B,TAS,PBS,January,Concessional - Ordinary,25,1181
+419,2015,1007B,TAS,PBS,January,Concessional - Free Safety Net,15,762
+420,2015,1007B,TAS,RPBS,January,RPBS - Safety Net,2,103
+421,2015,1007B,NT,PBS,January,General - Ordinary,13,166
+422,2015,1007B,NT,PBS,January,General - Safety Net,1,36
+423,2015,1010E,ACT,PBS,January,General - Safety Net,1,3
+424,2015,1010E,ACT,PBS,January,Concessional - Ordinary,8,20
+425,2015,1010E,ACT,PBS,January,Concessional - Free Safety Net,11,94
+426,2015,1010E,ACT,RPBS,January,RPBS - Ordinary,1,3
+427,2015,1010E,NSW,PBS,January,General - Ordinary,1,4
+428,2015,1010E,NSW,PBS,January,General - Safety Net,19,48
+429,2015,1010E,NSW,PBS,January,Concessional - Ordinary,386,1056
+430,2015,1010E,NSW,PBS,January,Concessional - Free Safety Net,919,7819
+431,2015,1010E,NSW,RPBS,January,RPBS - Ordinary,24,60
+432,2015,1010E,NSW,RPBS,January,RPBS - Safety Net,46,391
+433,2015,1010E,VIC,PBS,January,General - Safety Net,5,12
+434,2015,1010E,VIC,PBS,January,Concessional - Ordinary,152,394
+435,2015,1010E,VIC,PBS,January,Concessional - Free Safety Net,399,3375
+436,2015,1010E,VIC,RPBS,January,RPBS - Ordinary,13,32
+437,2015,1010E,VIC,RPBS,January,RPBS - Safety Net,20,170
+438,2015,1010E,QLD,PBS,January,General - Ordinary,2,7
+439,2015,1010E,QLD,PBS,January,General - Safety Net,14,35
+440,2015,1010E,QLD,PBS,January,Concessional - Ordinary,191,530
+441,2015,1010E,QLD,PBS,January,Concessional - Free Safety Net,425,3406
+442,2015,1010E,QLD,RPBS,January,RPBS - Ordinary,31,72
+443,2015,1010E,QLD,RPBS,January,RPBS - Safety Net,33,282
+444,2015,1010E,SA,PBS,January,General - Safety Net,4,10
+445,2015,1010E,SA,PBS,January,Concessional - Ordinary,110,290
+446,2015,1010E,SA,PBS,January,Concessional - Free Safety Net,348,2886
+447,2015,1010E,SA,RPBS,January,RPBS - Ordinary,16,40
+448,2015,1010E,SA,RPBS,January,RPBS - Safety Net,24,204
+449,2015,1010E,WA,PBS,January,General - Ordinary,1,4
+450,2015,1010E,WA,PBS,January,General - Safety Net,20,68
+451,2015,1010E,WA,PBS,January,Concessional - Ordinary,238,671
+452,2015,1010E,WA,PBS,January,Concessional - Free Safety Net,776,6580
+453,2015,1010E,WA,RPBS,January,RPBS - Ordinary,29,73
+454,2015,1010E,WA,RPBS,January,RPBS - Safety Net,59,502
+455,2015,1010E,TAS,PBS,January,General - Safety Net,1,3
+456,2015,1010E,TAS,PBS,January,Concessional - Ordinary,19,51
+457,2015,1010E,TAS,PBS,January,Concessional - Free Safety Net,40,338
+458,2015,1010E,TAS,RPBS,January,RPBS - Ordinary,5,12
+459,2015,1010E,TAS,RPBS,January,RPBS - Safety Net,3,26
+460,2015,1010E,NT,PBS,January,Concessional - Ordinary,5,19
+461,2015,1010E,NT,PBS,January,Concessional - Free Safety Net,5,43
+462,2015,1011F,ACT,PBS,January,General - Safety Net,3,13
+463,2015,1011F,ACT,PBS,January,Concessional - Ordinary,18,95
+464,2015,1011F,ACT,PBS,January,Concessional - Free Safety Net,15,154
+465,2015,1011F,ACT,RPBS,January,RPBS - Ordinary,2,9
+466,2015,1011F,NSW,PBS,January,General - Safety Net,40,182
+467,2015,1011F,NSW,PBS,January,Concessional - Ordinary,456,1990
+468,2015,1011F,NSW,PBS,January,Concessional - Free Safety Net,587,6042
+469,2015,1011F,NSW,RPBS,January,RPBS - Ordinary,30,138
+470,2015,1011F,NSW,RPBS,January,RPBS - Safety Net,58,609
+471,2015,1011F,VIC,PBS,January,General - Safety Net,15,64
+472,2015,1011F,VIC,PBS,January,Concessional - Ordinary,170,754
+473,2015,1011F,VIC,PBS,January,Concessional - Free Safety Net,233,2400
+474,2015,1011F,VIC,RPBS,January,RPBS - Ordinary,7,30
+475,2015,1011F,VIC,RPBS,January,RPBS - Safety Net,14,144
+476,2015,1011F,QLD,PBS,January,General - Ordinary,2,11
+477,2015,1011F,QLD,PBS,January,General - Safety Net,36,153
+478,2015,1011F,QLD,PBS,January,Concessional - Ordinary,380,1664
+479,2015,1011F,QLD,PBS,January,Concessional - Free Safety Net,482,4991
+480,2015,1011F,QLD,RPBS,January,RPBS - Ordinary,28,119
+481,2015,1011F,QLD,RPBS,January,RPBS - Safety Net,41,421
+482,2015,1011F,SA,PBS,January,General - Safety Net,9,38
+483,2015,1011F,SA,PBS,January,Concessional - Ordinary,190,836
+484,2015,1011F,SA,PBS,January,Concessional - Free Safety Net,262,2723
+485,2015,1011F,SA,RPBS,January,RPBS - Ordinary,14,66
+486,2015,1011F,SA,RPBS,January,RPBS - Safety Net,20,205
+487,2015,1011F,WA,PBS,January,General - Ordinary,1,5
+488,2015,1011F,WA,PBS,January,General - Safety Net,20,85
+489,2015,1011F,WA,PBS,January,Concessional - Ordinary,137,630
+490,2015,1011F,WA,PBS,January,Concessional - Free Safety Net,223,2305
+491,2015,1011F,WA,RPBS,January,RPBS - Ordinary,9,38
+492,2015,1011F,WA,RPBS,January,RPBS - Safety Net,8,82
+493,2015,1011F,TAS,PBS,January,General - Safety Net,5,21
+494,2015,1011F,TAS,PBS,January,Concessional - Ordinary,66,290
+495,2015,1011F,TAS,PBS,January,Concessional - Free Safety Net,98,1009
+496,2015,1011F,TAS,RPBS,January,RPBS - Ordinary,6,26
+497,2015,1011F,TAS,RPBS,January,RPBS - Safety Net,14,143
+498,2015,1011F,NT,PBS,January,Concessional - Ordinary,2,9
+499,2015,1011F,NT,PBS,January,Concessional - Free Safety Net,1,10
+500,2015,1012G,ACT,PBS,January,General - Safety Net,6,64
+501,2015,1012G,ACT,PBS,January,Concessional - Ordinary,30,225
+502,2015,1012G,ACT,PBS,January,Concessional - Free Safety Net,30,401
+503,2015,1012G,ACT,RPBS,January,RPBS - Ordinary,5,31
+504,2015,1012G,ACT,RPBS,January,RPBS - Safety Net,3,39
+505,2015,1012G,NSW,PBS,January,General - Ordinary,3,20
+506,2015,1012G,NSW,PBS,January,General - Safety Net,49,386
+507,2015,1012G,NSW,PBS,January,Concessional - Ordinary,824,5532
+508,2015,1012G,NSW,PBS,January,Concessional - Free Safety Net,1222,15496
+509,2015,1012G,NSW,RPBS,January,RPBS - Ordinary,24,133
+510,2015,1012G,NSW,RPBS,January,RPBS - Safety Net,56,747
+511,2015,1012G,VIC,PBS,January,General - Safety Net,31,263
+512,2015,1012G,VIC,PBS,January,Concessional - Ordinary,460,3053
+513,2015,1012G,VIC,PBS,January,Concessional - Free Safety Net,530,6717
+514,2015,1012G,VIC,RPBS,January,RPBS - Ordinary,19,162
+515,2015,1012G,VIC,RPBS,January,RPBS - Safety Net,27,329
+516,2015,1012G,QLD,PBS,January,General - Ordinary,1,7
+517,2015,1012G,QLD,PBS,January,General - Safety Net,42,398
+518,2015,1012G,QLD,PBS,January,Concessional - Ordinary,504,3488
+519,2015,1012G,QLD,PBS,January,Concessional - Free Safety Net,929,11652
+520,2015,1012G,QLD,RPBS,January,RPBS - Ordinary,20,138
+521,2015,1012G,QLD,RPBS,January,RPBS - Safety Net,52,641
+522,2015,1012G,SA,PBS,January,General - Safety Net,40,302
+523,2015,1012G,SA,PBS,January,Concessional - Ordinary,397,2668
+524,2015,1012G,SA,PBS,January,Concessional - Free Safety Net,596,7746
+525,2015,1012G,SA,RPBS,January,RPBS - Ordinary,7,42
+526,2015,1012G,SA,RPBS,January,RPBS - Safety Net,32,423
+527,2015,1012G,WA,PBS,January,General - Ordinary,1,7
+528,2015,1012G,WA,PBS,January,General - Safety Net,42,345
+529,2015,1012G,WA,PBS,January,Concessional - Ordinary,324,2187
+530,2015,1012G,WA,PBS,January,Concessional - Free Safety Net,443,5571
+531,2015,1012G,WA,RPBS,January,RPBS - Ordinary,12,63
+532,2015,1012G,WA,RPBS,January,RPBS - Safety Net,22,273
+533,2015,1012G,TAS,PBS,January,General - Ordinary,2,13
+534,2015,1012G,TAS,PBS,January,General - Safety Net,9,82
+535,2015,1012G,TAS,PBS,January,Concessional - Ordinary,121,782
+536,2015,1012G,TAS,PBS,January,Concessional - Free Safety Net,237,2987
+537,2015,1012G,TAS,RPBS,January,RPBS - Ordinary,9,53
+538,2015,1012G,TAS,RPBS,January,RPBS - Safety Net,8,105
+539,2015,1012G,NT,PBS,January,Concessional - Ordinary,5,36
+540,2015,1012G,NT,PBS,January,Concessional - Free Safety Net,4,45
+541,2015,1012G,NT,RPBS,January,RPBS - Safety Net,1,11
+542,2015,1013H,ACT,PBS,January,General - Safety Net,11,48
+543,2015,1013H,ACT,PBS,January,Concessional - Ordinary,39,213
+544,2015,1013H,ACT,PBS,January,Concessional - Free Safety Net,33,357
+545,2015,1013H,ACT,RPBS,January,RPBS - Ordinary,5,22
+546,2015,1013H,ACT,RPBS,January,RPBS - Safety Net,1,10
+547,2015,1013H,NSW,PBS,January,General - Safety Net,51,291
+548,2015,1013H,NSW,PBS,January,Concessional - Ordinary,805,4106
+549,2015,1013H,NSW,PBS,January,Concessional - Free Safety Net,1189,13032
+550,2015,1013H,NSW,RPBS,January,RPBS - Ordinary,38,180
+551,2015,1013H,NSW,RPBS,January,RPBS - Safety Net,82,852
+552,2015,1013H,VIC,PBS,January,General - Safety Net,31,168
+553,2015,1013H,VIC,PBS,January,Concessional - Ordinary,391,1992
+554,2015,1013H,VIC,PBS,January,Concessional - Free Safety Net,495,5549
+555,2015,1013H,VIC,RPBS,January,RPBS - Ordinary,22,111
+556,2015,1013H,VIC,RPBS,January,RPBS - Safety Net,43,465
+557,2015,1013H,QLD,PBS,January,General - Ordinary,1,6
+558,2015,1013H,QLD,PBS,January,General - Safety Net,48,247
+559,2015,1013H,QLD,PBS,January,Concessional - Ordinary,577,2928
+560,2015,1013H,QLD,PBS,January,Concessional - Free Safety Net,932,10230
+561,2015,1013H,QLD,RPBS,January,RPBS - Ordinary,46,234
+562,2015,1013H,QLD,RPBS,January,RPBS - Safety Net,96,1029
+563,2015,1013H,SA,PBS,January,General - Safety Net,20,108
+564,2015,1013H,SA,PBS,January,Concessional - Ordinary,272,1335
+565,2015,1013H,SA,PBS,January,Concessional - Free Safety Net,511,5480
+566,2015,1013H,SA,RPBS,January,RPBS - Ordinary,13,57
+567,2015,1013H,SA,RPBS,January,RPBS - Safety Net,23,239
+568,2015,1013H,WA,PBS,January,General - Safety Net,29,149
+569,2015,1013H,WA,PBS,January,Concessional - Ordinary,203,1009
+570,2015,1013H,WA,PBS,January,Concessional - Free Safety Net,284,3081
+571,2015,1013H,WA,RPBS,January,RPBS - Ordinary,7,31
+572,2015,1013H,WA,RPBS,January,RPBS - Safety Net,8,83
+573,2015,1013H,TAS,PBS,January,General - Safety Net,6,26
+574,2015,1013H,TAS,PBS,January,Concessional - Ordinary,127,594
+575,2015,1013H,TAS,PBS,January,Concessional - Free Safety Net,194,2085
+576,2015,1013H,TAS,RPBS,January,RPBS - Ordinary,11,51
+577,2015,1013H,TAS,RPBS,January,RPBS - Safety Net,15,156
+578,2015,1013H,NT,PBS,January,Concessional - Ordinary,10,51
+579,2015,1013H,NT,PBS,January,Concessional - Free Safety Net,2,21
+580,2015,1016L,NSW,PBS,January,Concessional - Ordinary,9,132
+581,2015,1016L,NSW,PBS,January,Concessional - Free Safety Net,2,41
+582,2015,1016L,NSW,RPBS,January,RPBS - Ordinary,1,56
+583,2015,1016L,VIC,PBS,January,Concessional - Ordinary,5,73
+584,2015,1016L,VIC,PBS,January,Concessional - Free Safety Net,6,138
+585,2015,1016L,QLD,PBS,January,General - Safety Net,1,15
+586,2015,1016L,QLD,PBS,January,Concessional - Ordinary,9,140
+587,2015,1016L,QLD,PBS,January,Concessional - Free Safety Net,20,441
+588,2015,1016L,SA,PBS,January,Concessional - Ordinary,2,29
+589,2015,1016L,SA,PBS,January,Concessional - Free Safety Net,6,124
+590,2015,1016L,WA,PBS,January,Concessional - Ordinary,3,44
+591,2015,1016L,WA,PBS,January,Concessional - Free Safety Net,2,445
+592,2015,1016L,WA,RPBS,January,RPBS - Ordinary,1,15
+593,2015,1016L,TAS,PBS,January,Concessional - Ordinary,2,29
+594,2015,1016L,TAS,PBS,January,Concessional - Free Safety Net,1,21
+595,2015,1024X,NSW,PBS,January,Concessional - Ordinary,5,78
+596,2015,1024X,NSW,PBS,January,Concessional - Free Safety Net,7,175
+597,2015,1024X,VIC,PBS,January,Concessional - Ordinary,9,180
+598,2015,1024X,VIC,PBS,January,Concessional - Free Safety Net,3,81
+599,2015,1024X,QLD,PBS,January,Concessional - Ordinary,4,61
+600,2015,1024X,QLD,PBS,January,Concessional - Free Safety Net,2,43
+601,2015,1024X,QLD,RPBS,January,RPBS - Ordinary,1,14
+602,2015,1024X,SA,PBS,January,Concessional - Ordinary,2,31
+603,2015,1024X,SA,PBS,January,Concessional - Free Safety Net,3,65
+604,2015,1024X,SA,RPBS,January,RPBS - Ordinary,1,16
+605,2015,1024X,WA,PBS,January,Concessional - Ordinary,2,8
+606,2015,1024X,TAS,PBS,January,Concessional - Ordinary,1,16
+607,2015,1034K,QLD,PBS,January,Concessional - Free Safety Net,2,60
+608,2015,1034K,WA,PBS,January,Concessional - Free Safety Net,1,1022
+609,2015,1034K,TAS,PBS,January,Concessional - Free Safety Net,2,3494
+610,2015,1037N,NSW,PBS,January,Concessional - Ordinary,8,254
+611,2015,1037N,NSW,PBS,January,Concessional - Free Safety Net,6,216
+612,2015,1037N,VIC,PBS,January,Concessional - Ordinary,10,338
+613,2015,1037N,VIC,PBS,January,Concessional - Free Safety Net,6,259
+614,2015,1037N,SA,PBS,January,General - Safety Net,1,30
+615,2015,1037N,SA,PBS,January,Concessional - Ordinary,2,60
+616,2015,1037N,SA,PBS,January,Concessional - Free Safety Net,1,36
+617,2015,1037N,WA,PBS,January,Concessional - Ordinary,2,60
+618,2015,1041T,NSW,PBS,January,Concessional - Ordinary,2,87
+619,2015,1041T,NSW,RPBS,January,RPBS - Safety Net,1,50
+620,2015,1041T,VIC,PBS,January,Concessional - Ordinary,1,66
+621,2015,1041T,VIC,PBS,January,Concessional - Free Safety Net,6,298
+622,2015,1041T,QLD,PBS,January,Concessional - Ordinary,1,44
+623,2015,1041T,SA,PBS,January,Concessional - Ordinary,1,87
+624,2015,1041T,TAS,PBS,January,Concessional - Ordinary,1,44
+625,2015,1042W,NSW,PBS,January,General - Ordinary,3,79
+626,2015,1042W,NSW,PBS,January,Concessional - Ordinary,7,457
+627,2015,1042W,NSW,PBS,January,Concessional - Free Safety Net,2,126
+628,2015,1042W,VIC,PBS,January,General - Ordinary,1,26
+629,2015,1042W,VIC,PBS,January,Concessional - Ordinary,12,830
+630,2015,1042W,VIC,PBS,January,Concessional - Free Safety Net,5,408
+631,2015,1042W,QLD,PBS,January,Concessional - Ordinary,4,235
+632,2015,1042W,QLD,PBS,January,Concessional - Free Safety Net,2,124
+633,2015,1042W,SA,PBS,January,General - Ordinary,1,26
+634,2015,1042W,SA,PBS,January,Concessional - Ordinary,1,57
+635,2015,1042W,WA,PBS,January,Concessional - Ordinary,1,63
+636,2015,1042W,WA,PBS,January,Concessional - Free Safety Net,1,63
+637,2015,1042W,TAS,PBS,January,Concessional - Ordinary,3,177
+638,2015,1046C,ACT,PBS,January,Concessional - Ordinary,1,14
+639,2015,1046C,NSW,PBS,January,Concessional - Ordinary,20,269
+640,2015,1046C,NSW,PBS,January,Concessional - Free Safety Net,9,176
+641,2015,1046C,VIC,PBS,January,Concessional - Ordinary,14,190
+642,2015,1046C,VIC,PBS,January,Concessional - Free Safety Net,12,235
+643,2015,1046C,QLD,PBS,January,Concessional - Ordinary,14,190
+644,2015,1046C,QLD,PBS,January,Concessional - Free Safety Net,3,59
+645,2015,1046C,SA,PBS,January,Concessional - Ordinary,5,68
+646,2015,1046C,SA,PBS,January,Concessional - Free Safety Net,5,90
+647,2015,1046C,WA,PBS,January,Concessional - Ordinary,6,73
+648,2015,1046C,WA,PBS,January,Concessional - Free Safety Net,3,59
+649,2015,1046C,TAS,PBS,January,Concessional - Ordinary,1,14
+650,2015,1046C,NT,PBS,January,Concessional - Ordinary,1,20
+651,2015,1052J,ACT,PBS,January,General - Ordinary,6,148
+652,2015,1052J,ACT,PBS,January,Concessional - Ordinary,1,54
+653,2015,1052J,ACT,PBS,January,Concessional - Free Safety Net,2,120
+654,2015,1052J,NSW,PBS,January,General - Ordinary,115,2724
+655,2015,1052J,NSW,PBS,January,General - Safety Net,2,108
+656,2015,1052J,NSW,PBS,January,Concessional - Ordinary,73,4236
+657,2015,1052J,NSW,PBS,January,Concessional - Free Safety Net,25,1505
+658,2015,1052J,NSW,RPBS,January,RPBS - Ordinary,3,163
+659,2015,1052J,NSW,RPBS,January,RPBS - Safety Net,4,246
+660,2015,1052J,VIC,PBS,January,General - Ordinary,89,2091
+661,2015,1052J,VIC,PBS,January,General - Safety Net,3,163
+662,2015,1052J,VIC,PBS,January,Concessional - Ordinary,55,2962
+663,2015,1052J,VIC,PBS,January,Concessional - Free Safety Net,19,1097
+664,2015,1052J,VIC,RPBS,January,RPBS - Ordinary,1,54
+665,2015,1052J,VIC,RPBS,January,RPBS - Safety Net,3,181
+666,2015,1052J,QLD,PBS,January,General - Ordinary,113,2672
+667,2015,1052J,QLD,PBS,January,General - Safety Net,3,163
+668,2015,1052J,QLD,PBS,January,Concessional - Ordinary,67,3665
+669,2015,1052J,QLD,PBS,January,Concessional - Free Safety Net,26,1563
+670,2015,1052J,QLD,RPBS,January,RPBS - Ordinary,2,114
+671,2015,1052J,QLD,RPBS,January,RPBS - Safety Net,3,181
+672,2015,1052J,SA,PBS,January,General - Ordinary,39,914
+673,2015,1052J,SA,PBS,January,Concessional - Ordinary,19,1029
+674,2015,1052J,SA,PBS,January,Concessional - Free Safety Net,9,532
+675,2015,1052J,SA,RPBS,January,RPBS - Safety Net,2,120
+676,2015,1052J,WA,PBS,January,General - Ordinary,93,2190
+677,2015,1052J,WA,PBS,January,General - Safety Net,3,151
+678,2015,1052J,WA,PBS,January,Concessional - Ordinary,41,2229
+679,2015,1052J,WA,PBS,January,Concessional - Free Safety Net,10,602
+680,2015,1052J,WA,RPBS,January,RPBS - Ordinary,3,171
+681,2015,1052J,WA,RPBS,January,RPBS - Safety Net,1,60
+682,2015,1052J,TAS,PBS,January,General - Ordinary,10,241
+683,2015,1052J,TAS,PBS,January,Concessional - Ordinary,15,793
+684,2015,1052J,TAS,PBS,January,Concessional - Free Safety Net,5,301
+685,2015,1052J,TAS,RPBS,January,RPBS - Safety Net,1,60
+686,2015,1052J,NT,PBS,January,General - Ordinary,8,186
+687,2015,1052J,NT,PBS,January,Concessional - Ordinary,4,217
+688,2015,1052J,NT,PBS,January,Concessional - Free Safety Net,1,60
+689,2015,1062X,ACT,PBS,January,Concessional - Ordinary,2,56
+690,2015,1062X,ACT,PBS,January,Concessional - Free Safety Net,1,34
+691,2015,1062X,NSW,PBS,January,General - Safety Net,7,195
+692,2015,1062X,NSW,PBS,January,Concessional - Ordinary,28,822
+693,2015,1062X,NSW,PBS,January,Concessional - Free Safety Net,41,1389
+694,2015,1062X,NSW,RPBS,January,RPBS - Ordinary,2,56
+695,2015,1062X,NSW,RPBS,January,RPBS - Safety Net,10,339
+696,2015,1062X,VIC,PBS,January,General - Safety Net,9,359
+697,2015,1062X,VIC,PBS,January,Concessional - Ordinary,19,665
+698,2015,1062X,VIC,PBS,January,Concessional - Free Safety Net,26,935
+699,2015,1062X,VIC,RPBS,January,RPBS - Safety Net,4,135
+700,2015,1062X,QLD,PBS,January,General - Ordinary,1,51
+701,2015,1062X,QLD,PBS,January,General - Safety Net,2,56
+702,2015,1062X,QLD,PBS,January,Concessional - Ordinary,22,611
+703,2015,1062X,QLD,PBS,January,Concessional - Free Safety Net,47,1745
+704,2015,1062X,QLD,RPBS,January,RPBS - Safety Net,2,68
+705,2015,1062X,SA,PBS,January,General - Ordinary,4,151
+706,2015,1062X,SA,PBS,January,General - Safety Net,8,223
+707,2015,1062X,SA,PBS,January,Concessional - Ordinary,40,1782
+708,2015,1062X,SA,PBS,January,Concessional - Free Safety Net,87,4329
+709,2015,1062X,SA,RPBS,January,RPBS - Ordinary,3,84
+710,2015,1062X,SA,RPBS,January,RPBS - Safety Net,6,203
+711,2015,1062X,WA,PBS,January,Concessional - Ordinary,8,223
+712,2015,1062X,WA,PBS,January,Concessional - Free Safety Net,25,874
+713,2015,1062X,WA,RPBS,January,RPBS - Ordinary,1,28
+714,2015,1062X,WA,RPBS,January,RPBS - Safety Net,2,68
+715,2015,1062X,TAS,PBS,January,Concessional - Ordinary,2,56
+716,2015,1062X,TAS,PBS,January,Concessional - Free Safety Net,7,237
+717,2015,1062X,NT,PBS,January,Concessional - Ordinary,1,28
+718,2015,1070H,ACT,PBS,January,General - Safety Net,1,4
+719,2015,1070H,ACT,PBS,January,Concessional - Ordinary,8,78
+720,2015,1070H,NSW,PBS,January,General - Ordinary,2,11
+721,2015,1070H,NSW,PBS,January,General - Safety Net,2,21
+722,2015,1070H,NSW,PBS,January,Concessional - Ordinary,186,1691
+723,2015,1070H,NSW,PBS,January,Concessional - Free Safety Net,89,930
+724,2015,1070H,NSW,RPBS,January,RPBS - Ordinary,6,27
+725,2015,1070H,NSW,RPBS,January,RPBS - Safety Net,8,84
+726,2015,1070H,VIC,PBS,January,General - Safety Net,1,10
+727,2015,1070H,VIC,PBS,January,Concessional - Ordinary,43,357
+728,2015,1070H,VIC,PBS,January,Concessional - Free Safety Net,29,303
+729,2015,1070H,VIC,RPBS,January,RPBS - Safety Net,3,31
+730,2015,1070H,QLD,PBS,January,General - Ordinary,14,78
+731,2015,1070H,QLD,PBS,January,General - Safety Net,3,25
+732,2015,1070H,QLD,PBS,January,Concessional - Ordinary,234,2145
+733,2015,1070H,QLD,PBS,January,Concessional - Free Safety Net,87,909
+734,2015,1070H,QLD,RPBS,January,RPBS - Ordinary,4,18
+735,2015,1070H,QLD,RPBS,January,RPBS - Safety Net,3,31
+736,2015,1070H,SA,PBS,January,General - Ordinary,1,6
+737,2015,1070H,SA,PBS,January,General - Safety Net,2,21
+738,2015,1070H,SA,PBS,January,Concessional - Ordinary,100,998
+739,2015,1070H,SA,PBS,January,Concessional - Free Safety Net,25,261
+740,2015,1070H,SA,RPBS,January,RPBS - Ordinary,1,4
+741,2015,1070H,SA,RPBS,January,RPBS - Safety Net,1,10
+742,2015,1070H,WA,PBS,January,General - Ordinary,17,95
+743,2015,1070H,WA,PBS,January,General - Safety Net,1,10
+744,2015,1070H,WA,PBS,January,Concessional - Ordinary,147,1440
+745,2015,1070H,WA,PBS,January,Concessional - Free Safety Net,53,554
+746,2015,1070H,TAS,PBS,January,Concessional - Ordinary,15,133
+747,2015,1070H,TAS,PBS,January,Concessional - Free Safety Net,13,136
+748,2015,1070H,TAS,RPBS,January,RPBS - Safety Net,1,10
+749,2015,1070H,NT,PBS,January,General - Ordinary,5,28
+750,2015,1070H,NT,PBS,January,General - Safety Net,1,10
+751,2015,1070H,NT,PBS,January,Concessional - Ordinary,28,287
+752,2015,1070H,NT,PBS,January,Concessional - Free Safety Net,6,63
+753,2015,1076P,VIC,PBS,January,General - Ordinary,5,1705
+754,2015,1076P,VIC,PBS,January,General - Safety Net,1,375
+755,2015,1076P,VIC,PBS,January,Concessional - Ordinary,6,2222
+756,2015,1076P,VIC,PBS,January,Concessional - Free Safety Net,10,3741
+757,2015,1076P,QLD,PBS,January,General - Ordinary,2,468
+758,2015,1076P,QLD,PBS,January,Concessional - Ordinary,2,748
+759,2015,1076P,QLD,PBS,January,Concessional - Free Safety Net,1,69
+760,2015,1076P,SA,PBS,January,Concessional - Ordinary,4,1498
+761,2015,1076P,SA,PBS,January,Concessional - Free Safety Net,1,381
+762,2015,1076P,WA,PBS,January,General - Ordinary,6,627
+763,2015,1076P,WA,PBS,January,General - Safety Net,1,280
+764,2015,1076P,WA,RPBS,January,RPBS - Ordinary,1,156
+765,2015,1081X,ACT,PBS,January,General - Ordinary,3,11
+766,2015,1081X,ACT,PBS,January,General - Safety Net,119,340
+767,2015,1081X,ACT,PBS,January,Concessional - Ordinary,667,1790
+768,2015,1081X,ACT,PBS,January,Concessional - Free Safety Net,541,4709
+769,2015,1081X,ACT,RPBS,January,RPBS - Ordinary,30,83
+770,2015,1081X,ACT,RPBS,January,RPBS - Safety Net,58,458
+771,2015,1081X,NSW,PBS,January,General - Ordinary,166,613
+772,2015,1081X,NSW,PBS,January,General - Safety Net,2267,6119
+773,2015,1081X,NSW,PBS,January,Concessional - Ordinary,25490,66799
+774,2015,1081X,NSW,PBS,January,Concessional - Free Safety Net,26973,232380
+775,2015,1081X,NSW,RPBS,January,RPBS - Ordinary,1125,2876
+776,2015,1081X,NSW,RPBS,January,RPBS - Safety Net,1313,11003
+777,2015,1081X,VIC,PBS,January,General - Ordinary,23,81
+778,2015,1081X,VIC,PBS,January,General - Safety Net,1453,3803
+779,2015,1081X,VIC,PBS,January,Concessional - Ordinary,18863,48010
+780,2015,1081X,VIC,PBS,January,Concessional - Free Safety Net,18122,155472
+781,2015,1081X,VIC,RPBS,January,RPBS - Ordinary,698,1736
+782,2015,1081X,VIC,RPBS,January,RPBS - Safety Net,796,6603
+783,2015,1081X,QLD,PBS,January,General - Ordinary,240,886
+784,2015,1081X,QLD,PBS,January,General - Safety Net,2974,8097
+785,2015,1081X,QLD,PBS,January,Concessional - Ordinary,27686,74035
+786,2015,1081X,QLD,PBS,January,Concessional - Free Safety Net,31470,271313
+787,2015,1081X,QLD,RPBS,January,RPBS - Ordinary,1593,4033
+788,2015,1081X,QLD,RPBS,January,RPBS - Safety Net,2193,18565
+789,2015,1081X,SA,PBS,January,General - Ordinary,64,231
